@@ -1,5 +1,5 @@
 body {
-    background-image: url("images/cinema.jpg");
+    background-image: url("/images/cinema.jpg");
     background-size: cover;
     color: antiquewhite;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -7,4 +7,13 @@ body {
 }
 h2 {
     color: yellowgreen; font-size: 25px;
+}
+.realisateur {
+    list-style :none
+}
+.film {
+    list-style-type: upper-latin;
+}
+.acteur {
+    list-style-type: disc;
 }

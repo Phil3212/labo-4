@@ -1,0 +1,10 @@
+body {
+    background-image: url("images/cinema.jpg");
+    background-size: cover;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+}
+h2 {
+    color: yellowgreen; font-size: 25px;
+}
